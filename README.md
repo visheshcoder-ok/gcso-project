@@ -1,1 +1,2 @@
-# gcso-project
+# C-20-project
+Complete CSGO project
